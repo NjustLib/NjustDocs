@@ -1,0 +1,10 @@
+site_name: 南京理工大学课程资料库
+site_description: 'A docs test'
+site_author: 'Michael Hausenblas'
+docs_dir: docs/
+repo_name: 'NjustLib/NjustDocs'
+repo_url: 'https://github.com/NjustLib/NjustDocs'
+nav:
+    - Home: index.md
+theme:
+  name: 'material'
