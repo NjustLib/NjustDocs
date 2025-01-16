@@ -1,0 +1,93 @@
+site_name: 南京理工大学课程资料库
+site_url: https://xxxx.github.io
+theme:
+    name: rtd-dropdown
+nav:
+  - 课程资料:
+    - .github: .github.md
+    - C++: C++.md
+    - C语言: C语言.md
+    - 中国近现代史: 中国近现代史.md
+    - 培养方案: 培养方案.md
+    - 大学物理: 大学物理.md
+    - 大学计算机: 大学计算机.md
+    - 大物实验: 大物实验.md
+    - 工程数学: 工程数学.md
+    - 数电: 数电.md
+    - 概率统计: 概率统计.md
+    - 模电: 模电.md
+    - 电路: 电路.md
+    - 电路实验: 电路实验.md
+    - 线性代数: 线性代数.md
+    - 近现代史纲要: 近现代史纲要.md
+    - 金工实习: 金工实习.md
+    - 高等数学: 高等数学.md
+    - .github: .github.md
+    - C++: C++.md
+    - C语言: C语言.md
+    - 中国近现代史: 中国近现代史.md
+    - 培养方案: 培养方案.md
+    - 大学物理: 大学物理.md
+    - 大学计算机: 大学计算机.md
+    - 大物实验: 大物实验.md
+    - 工程数学: 工程数学.md
+    - 数电: 数电.md
+    - 概率统计: 概率统计.md
+    - 模电: 模电.md
+    - 电路: 电路.md
+    - 电路实验: 电路实验.md
+    - 线性代数: 线性代数.md
+    - 近现代史纲要: 近现代史纲要.md
+    - 金工实习: 金工实习.md
+    - 高等数学: 高等数学.md
+    - .github: .github.md
+    - C++: C++.md
+    - C语言: C语言.md
+    - my-project: my-project.md
+    - 中国近现代史: 中国近现代史.md
+    - 培养方案: 培养方案.md
+    - 大学物理: 大学物理.md
+    - 大学计算机: 大学计算机.md
+    - 大物实验: 大物实验.md
+    - 工程数学: 工程数学.md
+    - 数电: 数电.md
+    - 概率统计: 概率统计.md
+    - 模电: 模电.md
+    - 电路: 电路.md
+    - 电路实验: 电路实验.md
+    - 线性代数: 线性代数.md
+    - 近现代史纲要: 近现代史纲要.md
+    - 金工实习: 金工实习.md
+    - 高等数学: 高等数学.md
+    - 南京理工大学课程资料库: index.md
+
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
